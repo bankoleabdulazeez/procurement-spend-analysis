@@ -83,11 +83,3 @@ Electronics should be a priority for competitive bidding, volume discounts, cont
 3. **TechMart Inc.** — highest supplier spend and major Electronics exposure.
 4. **Software licenses** — second-largest item/category spending area.
 5. **Supplier concentration** — top two suppliers represent nearly half of total spend.
-
-## Portfolio Takeaway
-
-This project demonstrates the ability to move from raw procurement transactions to:
-
-**Data → Analysis → Insight → Procurement Recommendation**
-
-The combination of Excel, SQL, and Tableau demonstrates practical analytical skills relevant to Procurement Analyst, Purchasing Analyst, Supply Chain Analyst, and Procurement Data Analyst roles.
