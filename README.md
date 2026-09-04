@@ -107,4 +107,4 @@ procurement-spend-analysis/
 
 ## Note
 
-The Tableau workbook and original dataset are not included in this generated package because they were not available as files in this chat. Add your `.twbx` workbook and original CSV/Excel dataset to the corresponding folders before publishing the repository.
+The Tableau workbook and original dataset are not included in this generated package because they were not available as files in this chat.
