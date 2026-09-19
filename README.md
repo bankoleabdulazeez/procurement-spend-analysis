@@ -2,7 +2,6 @@
 
 A procurement analytics case study using SQL, Excel, and Tableau to identify supplier concentration, high-value spend categories, purchasing priorities, and potential cost-saving opportunities.
 
-⸻
 ## Table of Contents
 
 * [Project Overview](#project-overview)
@@ -37,7 +36,6 @@ The objective was not simply to report what the company purchased, but to answer
 
 Where is the money going, what is driving procurement spend, and where should procurement focus its attention?
 
-⸻
 ![Dashboard showing Procurement Spend Analysis](Dashboard.png)
 https://public.tableau.com/app/profile/abdulazeez.bankole/viz/ProcurementSpendAnalysisDashboard_17884518684700/ProcurementSpendAnalysisDashboard
 
@@ -55,8 +53,6 @@ The analysis was designed to answer the following procurement questions:
 * What does an ABC analysis reveal about purchasing priorities?
 * Where could supplier negotiations generate meaningful savings?
 * How much could the company potentially save under different savings scenarios?
-
-⸻
 
 # Executive Summary
 
@@ -84,8 +80,6 @@ Electronics and Software account for approximately 83.3% of total procurement sp
 
 This means procurement management should prioritize these two categories rather than distributing negotiation and monitoring efforts evenly across all categories.
 
-⸻
-
 # Supplier Analysis
 
 Supplier concentration is another major finding.
@@ -110,8 +104,6 @@ This creates an opportunity for procurement to:
 * Assess supplier dependency and business continuity risk
 * Benchmark pricing between suppliers where products overlap
 
-⸻
-
 # Supplier × Category Analysis
 
 The supplier-category analysis identifies where specific suppliers have the greatest financial impact.
@@ -135,8 +127,6 @@ Rather than negotiating with suppliers based only on total supplier spend, procu
 For example:
 
 TechMart + Electronics represents a stronger negotiation target than simply saying “TechMart is our largest supplier.”
-
-⸻
 
 # Electronics Spend Analysis
 
@@ -167,8 +157,6 @@ These figures represent scenario-based savings, not realized savings.
 
 Even a relatively small percentage improvement in Electronics purchasing could therefore create a meaningful financial impact.
 
-⸻
-
 # Item Spend Analysis
 
 The analysis also identified the highest-value purchasing items.
@@ -193,8 +181,6 @@ The top five items account for the majority of overall spend, making them strong
 * Volume discounts
 * Demand planning
 * Standardization
-
-⸻
 
 # ABC Analysis
 
@@ -252,8 +238,6 @@ This could include:
 * Strategic sourcing
 * Management approval
 
-⸻
-
 # Procurement Recommendations
 
 Based on the analysis, five priority actions are recommended.
@@ -270,8 +254,6 @@ Procurement should prioritize:
 * Supplier benchmarking
 * Standardized product specifications
 
-⸻
-
 2. Negotiate strategically with TechMart
 
 TechMart is the largest supplier at 26.50% of total spend.
@@ -287,8 +269,6 @@ Potential negotiation areas include:
 * Rebates
 * Longer-term agreements
 
-⸻
-
 3. Review laptop procurement
 
 Laptops represent approximately 38.07% of total procurement spend.
@@ -302,8 +282,6 @@ Because of this concentration, procurement should investigate:
 * Total cost of ownership
 * Warranty and support costs
 
-⸻
-
 4. Apply differentiated procurement controls
 
 The ABC analysis suggests that procurement should use different management approaches depending on item value.
@@ -313,8 +291,6 @@ B items: Regular monitoring
 C items: Simplified purchasing processes
 
 This allows procurement teams to spend more time where the financial impact is highest.
-
-⸻
 
 5. Investigate supplier concentration
 
@@ -328,8 +304,6 @@ Procurement should evaluate whether this concentration creates:
 * Operational dependency
 
 Where practical, alternative suppliers should be evaluated for critical categories.
-
-⸻
 
 # Tableau Dashboard
 
@@ -351,8 +325,6 @@ It includes:
 * Electronics % of Total Spend
 
 The dashboard is designed to allow procurement stakeholders to move from a high-level view of spend into specific supplier, category, and item-level opportunities.
-
-⸻
 
 # Tools & Technologies
 
@@ -394,8 +366,6 @@ Used for:
 * ABC visualization
 * Procurement storytelling
 
-⸻
-
 # Dataset
 
 The dataset contains 500 synthetic procurement transactions from 2024.
@@ -432,8 +402,6 @@ Suppliers
 
 Note: The dataset is synthetic and created for analytical and portfolio purposes. Savings figures represent scenarios and should not be interpreted as realized savings.
 
-⸻
-
 # Methodology
 
 The project followed a simplified procurement analytics workflow:
@@ -460,8 +428,6 @@ Procurement Recommendations
         ↓
 Tableau Dashboard
 
-⸻
-
 # Project Structure
 
 procurement-spend-analysis/
@@ -476,8 +442,6 @@ procurement-spend-analysis/
 │
 ├── spend_analysis_dataset.csv
 └── spend_analysis_dataset.xlsx
-
-⸻
 
 # How to Reproduce the Analysis
 
@@ -513,8 +477,6 @@ The SQL file contains queries for:
 * Cumulative spend
 * ABC classification
 
-⸻
-
 3. Open the Tableau dashboard
 
 Open:
@@ -522,8 +484,6 @@ Open:
 Procurement Spend Analysis Dashboard.twbx
 
 using Tableau Desktop.
-
-⸻
 
 # Key Takeaways
 
@@ -555,8 +515,6 @@ It is to answer:
 
 What should procurement do differently as a result of this analysis?
 
-⸻
-
 # Future Improvements
 
 Potential extensions to this project include:
@@ -571,8 +529,6 @@ Potential extensions to this project include:
 * Category-level savings targets
 * Forecasting future procurement spend
 * Automated procurement dashboards
-
-⸻
 
 # Portfolio Highlight
 
