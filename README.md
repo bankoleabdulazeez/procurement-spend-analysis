@@ -3,6 +3,27 @@
 A procurement analytics case study using SQL, Excel, and Tableau to identify supplier concentration, high-value spend categories, purchasing priorities, and potential cost-saving opportunities.
 
 ⸻
+## Table of Contents
+
+* [Project Overview](#project-overview)
+* [Business Questions](#business-questions)
+* [Executive Summary](#executive-summary)
+* [Supplier Analysis](#supplier-analysis)
+* [Supplier × Category Analysis](#supplier-category-analysis)
+* [Electronics Spend Analysis](#electronics-spend-analysis)
+* [Item Spend Analysis](#item-spend-analysis)
+* [ABC Analysis](#abc-analysis)
+* [Procurement Recommendations](#procurement-recommendations)
+* [Tableau Dashboard](#tableau-dashboard)
+* [Tools & Technologies](#tools--technologies)
+* [Dataset](#dataset)
+* [Methodology](#methodology)
+* [Project Structure](#project-structure)
+* [How to Reproduce the Analysis](#how-to-reproduce-the-analysis)
+* [Key Takeaways](#key-takeaways)
+* [Future Improvements](#future-improvements)
+* [Portfolio Highlight](#portfolio-highlight)
+
 
 # Project Overview
 
@@ -17,6 +38,8 @@ The objective was not simply to report what the company purchased, but to answer
 Where is the money going, what is driving procurement spend, and where should procurement focus its attention?
 
 ⸻
+![Dashboard showing Procurement Spend Analysis](Dashboard.png)
+https://public.tableau.com/app/profile/abdulazeez.bankole/viz/ProcurementSpendAnalysisDashboard_17884518684700/ProcurementSpendAnalysisDashboard
 
 # Business Questions
 
@@ -39,13 +62,13 @@ The analysis was designed to answer the following procurement questions:
 
 The analysis identified several important procurement opportunities.
 
-Total Procurement Spend
+-**Total Procurement Spend**
 
 €1,240,580.53
 
 The company processed 500 transactions across multiple suppliers, categories, and purchasing items.
 
-Biggest Spend Categories
+-**Biggest Spend Categories**
 
 Category	Spend	Share
 Electronics	€697,805.23	56.25%
@@ -55,7 +78,7 @@ Accessories	€20,857.24	1.68%
 Stationery	€6,753.18	0.54%
 Office Supplies	€6,328.27	0.51%
 
-Key Finding
+-**Key Finding**
 
 Electronics and Software account for approximately 83.3% of total procurement spend.
 
@@ -74,7 +97,7 @@ OfficeSupplies Co.	€223,580.85	18.02%
 FurniWorks Ltd.	€202,810.72	16.35%
 CloudSoft Corp.	€200,073.64	16.13%
 
-Key Finding
+-**Key Finding**
 
 The two largest suppliers, TechMart Inc. and QuickDeliver Ltd., represent approximately 49.5% of total procurement spend.
 
@@ -311,6 +334,9 @@ Where practical, alternative suppliers should be evaluated for critical categori
 # Tableau Dashboard
 
 The Tableau dashboard brings the analysis together into an interactive procurement overview.
+![Dashboard showing Procurement Spend Analysis](Dashboard.png)
+https://public.tableau.com/app/profile/abdulazeez.bankole/viz/ProcurementSpendAnalysisDashboard_17884518684700/ProcurementSpendAnalysisDashboard
+
 
 It includes:
 
@@ -531,27 +557,6 @@ What should procurement do differently as a result of this analysis?
 
 ⸻
 
-# Skills Demonstrated
-
-This project demonstrates practical experience in:
-
-* Procurement Analytics
-* Spend Analysis
-* Supplier Analysis
-* Strategic Sourcing
-* Cost-Saving Analysis
-* ABC Classification
-* Data Cleaning & Validation
-* SQL
-* Excel
-* Tableau
-* Data Visualization
-* Business Intelligence
-* Procurement Decision Support
-* Data Storytelling
-
-⸻
-
 # Future Improvements
 
 Potential extensions to this project include:
@@ -566,14 +571,6 @@ Potential extensions to this project include:
 * Category-level savings targets
 * Forecasting future procurement spend
 * Automated procurement dashboards
-
-⸻
-
-# About the Project
-
-This project was developed as a procurement analytics portfolio case study to demonstrate how purchasing data can be transformed into actionable business recommendations.
-
-It combines procurement knowledge with data analytics and visualization to demonstrate a practical approach to identifying cost-saving opportunities, supplier concentration, and purchasing priorities.
 
 ⸻
 
