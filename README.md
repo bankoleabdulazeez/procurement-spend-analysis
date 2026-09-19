@@ -489,31 +489,17 @@ using Tableau Desktop.
 
 The analysis demonstrates several important procurement principles:
 
-1. Spend concentration matters
+1. Spend concentration matters - A small number of categories and items account for a large proportion of total expenditure.
 
-A small number of categories and items account for a large proportion of total expenditure.
+2. Supplier analysis can reveal negotiation leverage - Understanding where spend is concentrated helps procurement teams identify strategic suppliers.
 
-2. Supplier analysis can reveal negotiation leverage
+3. Not every purchase requires the same level of management - ABC analysis helps procurement teams prioritize resources based on financial impact.
 
-Understanding where spend is concentrated helps procurement teams identify strategic suppliers.
+4. Small savings percentages can create significant value - A 5% improvement in Electronics purchasing alone represents approximately:
 
-3. Not every purchase requires the same level of management
+        €34,890 in potential savings.
 
-ABC analysis helps procurement teams prioritize resources based on financial impact.
-
-4. Small savings percentages can create significant value
-
-A 5% improvement in Electronics purchasing alone represents approximately:
-
-€34,890 in potential savings.
-
-5. Data should lead to action
-
-The purpose of spend analysis is not simply to create charts.
-
-It is to answer:
-
-What should procurement do differently as a result of this analysis?
+5. Data should lead to action - The purpose of spend analysis is not simply to create charts, it is to answer: What should procurement do differently as a result of this                 analysis?
 
 # Future Improvements
 
